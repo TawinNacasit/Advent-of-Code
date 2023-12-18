@@ -1,0 +1,6 @@
+filePointer = open("text","r")
+sttrr = filePointer.read()
+filePointer.close()
+print(sttrr)
+sttrr = sttrr.split()
+print(sttrr)

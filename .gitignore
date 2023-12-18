@@ -1,0 +1,4 @@
+*.exe
+.vscode
+hashf.py
+text
